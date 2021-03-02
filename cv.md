@@ -25,18 +25,18 @@ This is an example of my code:
 }
 ```
 
-Experience:
+**Experience:**
 
 I made a website [vetraz.by](http://www.vetraz.by)
 ___
 
-Education:
+**Education:**
 
 BNTU *2007-2012* design-engineer
 
 BSU *2015-2017* design (magistracy)
 ___
 
-Level of English 
+**Level of English:** 
 
 A2
