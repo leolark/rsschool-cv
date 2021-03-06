@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap');
+
+main {
+    max-width: 780px;
+    background-color: #3c5b74;
+    margin: 0 auto;
+    padding: 15px;
+    font-family: 'Inconsolata', monospace;
+    font-size: 18px;
+    color: #a3acb1;
+}
+
+img {
+    border: 10px solid #a3acb1;
+}
+
+a, a:visited, a:active {
+    color: #a3acb1;
+}
+
